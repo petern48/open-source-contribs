@@ -6,7 +6,14 @@ A list of links to help with tracking my open source contributions. "Pull reques
 - Pull Requests:
 
   - [pull request #68164](https://github.com/ClickHouse/ClickHouse/pull/68164): New feature: Added a new setting that allows users to set IF NOT EXISTS behavior by default
-  - [pull request #67334](https://github.com/ClickHouse/ClickHouse/pull/67334): New Feature: Added an alias for window functions 
+  - [pull request #67334](https://github.com/ClickHouse/ClickHouse/pull/67334): New feature: Added an alias for window functions
+  - [pull request #68497](https://github.com/ClickHouse/ClickHouse/pull/68497): Doc Fix. Fixed an incorrectly documented setting
+
+[PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric) - An extension of PyTorch for Graph Neural Networks
+
+- Pull Requests:
+  - [pull request #9592](https://github.com/pyg-team/pytorch_geometric/pull/9592): New feature: A new LineDiGraph transformation module in collaboration in a researcher (in review).
+
 
 [Ray](https://github.com/ray-project/ray) - A distributed compute framework for scaling data processing and machine learning workloads
 
@@ -20,10 +27,6 @@ A list of links to help with tracking my open source contributions. "Pull reques
 <!--  - [issue #46817](https://github.com/ray-project/ray/issues/46817): Propose issue
 -->
 
-[PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric) - An extension of PyTorch for Graph Neural Networks
-
-- Issues
-  - [issue #9457](https://github.com/pyg-team/pytorch_geometric/issues/9457): Help with code optimization for an upcoming new feature PR
 
 Other Misc Repos:
 
