@@ -6,7 +6,8 @@ A list of links to help with tracking my open source contributions. "Pull reques
 
 - Pull Requests:
 
-  - [pull request #68989](https://github.com/ClickHouse/ClickHouse/pull/68989): New feature: Added an (efficient) arrayUnion() function (in review)
+  - [pull request #69657](https://github.com/ClickHouse/ClickHouse/pull/69657): New feature: Added the ability to dynamically filter logs using regular expressions defined in the config file (in review)
+  - [pull request #68989](https://github.com/ClickHouse/ClickHouse/pull/68989): New feature: Added an (efficient) arrayUnion() function
   - [pull request #68455](https://github.com/ClickHouse/ClickHouse/pull/68455): Bug Fix: Fixed a bug where TRIM() throws an unexpected exception for a certain edge case (in review)
   - [pull request #68164](https://github.com/ClickHouse/ClickHouse/pull/68164): New feature: Added a new setting that allows users to set IF NOT EXISTS behavior by default
   - [pull request #67334](https://github.com/ClickHouse/ClickHouse/pull/67334): New feature: Added an alias for window functions
@@ -22,8 +23,8 @@ A list of links to help with tracking my open source contributions. "Pull reques
 - Pull Requests:
 
   - [pull request #46821](https://github.com/ray-project/ray/pull/46821): Clarified documentation to avoid confusion
-
 - Issues:
+
   - [issue #44068](https://github.com/ray-project/ray/issues/44068): Helped with debugging
 
 <!--  - [issue #46817](https://github.com/ray-project/ray/issues/46817): Propose issue
