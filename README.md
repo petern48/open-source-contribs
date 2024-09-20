@@ -1,13 +1,13 @@
 # open-source-contribs
 
-A list of links to help with tracking my open source contributions. "Pull request" refer to pull requests I've submitted. "Issue" may refer to new issues I've submitted, issues I've answered a question to, or issues I've contributed to the discussion for. Note, it's possible for some of these to still be in progress.
+A list of links to track my open source contributions. The purpose of this page is partly for display, but also just for me to track my PRs across multiple repos. Enjoy!
 
 [ClickHouse](https://github.com/ClickHouse/ClickHouse) - A real-time analytics DBMS
 
 - Pull Requests:
 
   - [pull request #69657](https://github.com/ClickHouse/ClickHouse/pull/69657): New feature: Added the ability to dynamically filter logs using regular expressions defined in the config file (in review)
-  - [pull request #68989](https://github.com/ClickHouse/ClickHouse/pull/68989): New feature: Added an (efficient) arrayUnion() function
+  - [pull request #68989](https://github.com/ClickHouse/ClickHouse/pull/68989): New feature: Added an arrayUnion() function, providing a more efficient and developer-friendly alterative to the previous workaround
   - [pull request #68455](https://github.com/ClickHouse/ClickHouse/pull/68455): Bug Fix: Fixed a bug where TRIM() throws an unexpected exception for a certain edge case (in review)
   - [pull request #68164](https://github.com/ClickHouse/ClickHouse/pull/68164): New feature: Added a new setting that allows users to set IF NOT EXISTS behavior by default
   - [pull request #67334](https://github.com/ClickHouse/ClickHouse/pull/67334): New feature: Added an alias for window functions
@@ -22,10 +22,12 @@ A list of links to help with tracking my open source contributions. "Pull reques
 
 - Pull Requests:
 
+  - [pull request #47763](https://github.com/ray-project/ray/pull/47763): Fixed issue where some users couldn't install package due to a required dependency (in review)
   - [pull request #46821](https://github.com/ray-project/ray/pull/46821): Clarified documentation to avoid confusion
-- Issues:
 
-  - [issue #44068](https://github.com/ray-project/ray/issues/44068): Helped with debugging
+<!-- - Issues: -->
+
+<!-- - [issue #44068](https://github.com/ray-project/ray/issues/44068): Helped with debugging -->
 
 <!--  - [issue #46817](https://github.com/ray-project/ray/issues/46817): Propose issue
 -->
