@@ -1,13 +1,13 @@
 # open-source-contribs
 
-A list of links to track my open source contributions. The purpose of this page is partly for display, but also just for me to track my PRs across multiple repos. Enjoy!
+A list of links to track my open source contributions. The purpose of this page is partly for display, but also just for me to track my PRs across multiple repos. Favorites are in **bold** Enjoy!
 
 [ClickHouse](https://github.com/ClickHouse/ClickHouse) - A real-time analytics DBMS
 
 - Pull Requests:
 
-  - [pull request #69657](https://github.com/ClickHouse/ClickHouse/pull/69657): New feature: Added a thread-safe feature that enables developers to dynamically filter logs using regular expressions
-  - [pull request #68989](https://github.com/ClickHouse/ClickHouse/pull/68989): New feature: Added an arrayUnion() function, providing a more efficient and developer-friendly alterative to the previous workaround
+  - [pull request #69657](https://github.com/ClickHouse/ClickHouse/pull/69657): **New feature:** Added a thread-safe feature that enables developers to dynamically filter logs using regular expressions
+  - [pull request #68989](https://github.com/ClickHouse/ClickHouse/pull/68989): **New feature**: Added an arrayUnion() function, providing a more efficient and developer-friendly alterative to the previous workaround
   - [pull request #68455](https://github.com/ClickHouse/ClickHouse/pull/68455): Bug Fix: Fixed a bug where TRIM() throws an unexpected exception for a certain edge case
   - [pull request #68164](https://github.com/ClickHouse/ClickHouse/pull/68164): New feature: Added a new setting that allows users to set IF NOT EXISTS behavior by default
   - [pull request #67334](https://github.com/ClickHouse/ClickHouse/pull/67334): New feature: Added an alias for window functions
