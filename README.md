@@ -11,6 +11,7 @@ A list of links to track my open source contributions. The purpose of this page 
   - [pull request #68455](https://github.com/ClickHouse/ClickHouse/pull/68455): Bug Fix: Fixed a bug where TRIM() throws an unexpected exception for a certain edge case
   - [pull request #68164](https://github.com/ClickHouse/ClickHouse/pull/68164): New feature: Added a new setting that allows users to set IF NOT EXISTS behavior by default
   - [pull request #67334](https://github.com/ClickHouse/ClickHouse/pull/67334): New feature: Added an alias for window functions
+  - [pull request #71779](https://github.com/ClickHouse/ClickHouse/pull/71779): Doc Fix: Fix typo
   - [pull request #68497](https://github.com/ClickHouse/ClickHouse/pull/68497): Doc Fix. Fixed an incorrectly documented setting
 
 [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric) - An extension of PyTorch for Graph Neural Networks
