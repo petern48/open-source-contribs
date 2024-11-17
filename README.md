@@ -6,6 +6,7 @@ A list of links to track my open source contributions. The purpose of this page 
 
 - Pull Requests:
 
+  - [pull request #71403](https://github.com/ClickHouse/ClickHouse/pull/71403): New Feature: Add aliases to avoid weird functions names with mixed casing style like anyLast_respect_nullsStateIf when used with combinators
   - [pull request #69657](https://github.com/ClickHouse/ClickHouse/pull/69657): **New feature:** Added a thread-safe feature that enables developers to dynamically filter logs using regular expressions
   - [pull request #68989](https://github.com/ClickHouse/ClickHouse/pull/68989): **New feature**: Added an arrayUnion() function, providing a more efficient and developer-friendly alterative to the previous workaround
   - [pull request #68455](https://github.com/ClickHouse/ClickHouse/pull/68455): Bug Fix: Fixed a bug where TRIM() throws an unexpected exception for a certain edge case
