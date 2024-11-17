@@ -12,6 +12,7 @@ A list of links to track my open source contributions. The purpose of this page 
   - [pull request #68164](https://github.com/ClickHouse/ClickHouse/pull/68164): New feature: Added a new setting that allows users to set IF NOT EXISTS behavior by default
   - [pull request #71774](https://github.com/ClickHouse/ClickHouse/pull/71774): Improvement: Update enable_http_compression setting to make performance improvement more accessible
   - [pull request #67334](https://github.com/ClickHouse/ClickHouse/pull/67334): New feature: Added an alias for window functions
+  - [pull request #72016](https://github.com/ClickHouse/ClickHouse/pull/72016): Doc Fix: Fix Typos
   - [pull request #71779](https://github.com/ClickHouse/ClickHouse/pull/71779): Doc Fix: Fix typo
   - [pull request #68497](https://github.com/ClickHouse/ClickHouse/pull/68497): Doc Fix. Fixed an incorrectly documented setting
 
