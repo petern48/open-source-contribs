@@ -26,7 +26,7 @@ A list of links to track my open source contributions. The purpose of this page 
 
 - Pull Requests:
 
-  - [pull request #47763](https://github.com/ray-project/ray/pull/47763): Fixed issue where some users couldn't install package due to a required dependency (in review)
+  - [pull request #47763](https://github.com/ray-project/ray/pull/47763): Fixed issue where some users couldn't install package due to a required dependency
   - [pull request #46821](https://github.com/ray-project/ray/pull/46821): Clarified documentation to avoid confusion
 
 Other Misc Repos:
