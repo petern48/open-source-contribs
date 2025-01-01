@@ -1,5 +1,8 @@
 # open-source-contribs
 
+Migrated to my personal website [here](https://petern48-io.vercel.app/open-source)!
+
+<!--
 A list of links to track my open source contributions. The purpose of this page is partly for display, but also just for me to track my PRs across multiple repos. Favorites are in **bold** Enjoy!
 
 [ClickHouse](https://github.com/ClickHouse/ClickHouse) - A real-time analytics DBMS
@@ -31,6 +34,7 @@ A list of links to track my open source contributions. The purpose of this page 
 
 Other Misc Repos:
 
-<!-- - class website repo: [PR #1](https://github.com/UCLA-CS-131/fall-24-website/pull/1) -->
+- class website repo: [PR #1](https://github.com/UCLA-CS-131/fall-24-website/pull/1)
 
 - first-contributions repo: [PR #86857](https://github.com/firstcontributions/first-contributions/pull/86857)
+-->
